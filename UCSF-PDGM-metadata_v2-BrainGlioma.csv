@@ -1,0 +1,502 @@
+Sex,Age at MRI,WHO CNS Grade,Final pathologic diagnosis (WHO 2021),MGMT status,MGMT index,IDH,dead_0_alive,OS,EOR,Biopsy prior to imaging
+M,66,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,1303,STR,No
+F,80,4,"Glioblastoma, IDH-wildtype",indeterminate,0,wildtype,1,274,biopsy,No
+M,70,4,"Glioblastoma, IDH-wildtype",indeterminate,0,wildtype,1,417,STR,No
+M,70,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,185,STR,No
+F,68,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,389,STR,No
+M,39,4,"Glioblastoma, IDH-wildtype",positive,7,wildtype,0,17,GTR,No
+F,68,4,"Glioblastoma, IDH-wildtype",positive,5,wildtype,0,133,STR,No
+F,74,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,15,GTR,No
+F,65,4,"Glioblastoma, IDH-wildtype",positive,13,wildtype,1,322,STR,No
+F,64,4,"Glioblastoma, IDH-wildtype",positive,4,wildtype,1,313,STR,No
+M,50,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,54,STR,No
+F,57,4,"Glioblastoma, IDH-wildtype",positive,7,wildtype,0,14,STR,Yes
+M,54,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,241,STR,No
+M,51,4,"Glioblastoma, IDH-wildtype",positive,11,wildtype,0,1449,GTR,No
+F,50,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,1,719,GTR,No
+M,49,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,551,GTR,No
+M,41,4,"Astrocytoma, IDH-mutant",positive,8,mutated (NOS),0,1759,GTR,No
+F,61,4,"Glioblastoma, IDH-wildtype",positive,14,wildtype,1,533,STR,No
+F,67,4,"Glioblastoma, IDH-wildtype",positive,12,wildtype,1,1161,GTR,No
+M,51,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,653,STR,No
+M,34,4,"Glioblastoma, IDH-wildtype",positive,14,wildtype,1,465,STR,No
+F,83,4,"Glioblastoma, IDH-wildtype",positive,3,wildtype,0,236,biopsy,No
+F,54,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,298,STR,No
+M,66,4,"Glioblastoma, IDH-wildtype",indeterminate,0,wildtype,1,75,biopsy,No
+M,78,4,"Glioblastoma, IDH-wildtype",positive,3,wildtype,0,17,STR,No
+F,40,4,"Astrocytoma, IDH-mutant",positive,13,mutated (NOS),1,824,GTR,No
+F,66,4,"Glioblastoma, IDH-wildtype",indeterminate,0,wildtype,0,105,STR,No
+M,37,4,"Glioblastoma, IDH-wildtype",positive,10,wildtype,1,1489,STR,No
+M,63,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,52,STR,No
+M,69,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,1,132,STR,No
+M,52,4,"Glioblastoma, IDH-wildtype",positive,8,wildtype,0,1673,GTR,No
+M,74,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,0,460,GTR,No
+M,78,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,1,152,STR,No
+M,53,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,0,134,GTR,No
+M,65,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,716,GTR,No
+M,69,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,128,STR,No
+M,58,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,635,GTR,No
+F,58,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,1,1116,GTR,No
+M,38,4,"Astrocytoma, IDH-mutant",positive,6,mutated (NOS),0,930,STR,No
+M,32,4,"Astrocytoma, IDH-mutant",positive,11,mutated (NOS),0,1718,GTR,No
+M,48,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,178,STR,Yes
+M,55,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,0,385,STR,No
+M,74,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,1,54,biopsy,No
+F,65,4,"Glioblastoma, IDH-wildtype",positive,13,wildtype,0,721,STR,No
+M,37,4,"Glioblastoma, IDH-wildtype",positive,7,wildtype,1,554,GTR,No
+F,64,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,0,575,GTR,No
+F,69,4,"Glioblastoma, IDH-wildtype",positive,13,wildtype,0,1328,GTR,No
+F,79,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,1,207,STR,No
+M,38,4,"Glioblastoma, IDH-wildtype",positive,4,wildtype,0,224,STR,No
+F,51,4,"Glioblastoma, IDH-wildtype",positive,14,wildtype,0,1540,GTR,No
+M,71,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,0,223,STR,No
+F,46,4,"Astrocytoma, IDH-mutant",positive,16,mutated (NOS),0,1907,STR,No
+M,56,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,1,287,STR,No
+M,49,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,1,187,GTR,No
+M,64,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,167,STR,No
+F,38,4,"Glioblastoma, IDH-wildtype",indeterminate,0,wildtype,0,1913,biopsy,No
+M,71,4,"Glioblastoma, IDH-wildtype",positive,4,wildtype,1,299,STR,No
+M,54,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,336,biopsy,No
+M,55,4,"Glioblastoma, IDH-wildtype",positive,12,wildtype,1,245,biopsy,No
+M,66,4,"Glioblastoma, IDH-wildtype",positive,5,wildtype,1,678,STR,No
+F,71,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,315,STR,No
+M,52,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,0,184,STR,No
+F,54,4,"Astrocytoma, IDH-mutant",positive,12,mutated (NOS),0,1617,STR,No
+M,61,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,583,GTR,Yes
+M,61,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,421,GTR,No
+M,76,4,"Glioblastoma, IDH-wildtype",positive,15,wildtype,0,108,biopsy,No
+M,84,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,1,142,STR,No
+F,79,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,1,354,GTR,No
+F,79,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,560,STR,No
+F,77,4,"Glioblastoma, IDH-wildtype",positive,4,wildtype,1,253,GTR,No
+M,60,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,0,6,STR,No
+F,62,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,1,260,GTR,No
+M,60,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,902,GTR,No
+M,77,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,232,GTR,No
+F,72,4,"Glioblastoma, IDH-wildtype",positive,15,wildtype,0,266,STR,No
+M,63,4,"Glioblastoma, IDH-wildtype",positive,7,wildtype,1,406,GTR,No
+F,60,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,0,1797,GTR,No
+M,25,4,"Astrocytoma, IDH-mutant",positive,4,IDH1 p.R132H,0,1785,STR,No
+M,65,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,1,749,STR,No
+M,79,4,"Glioblastoma, IDH-wildtype",positive,12,wildtype,1,463,GTR,Yes
+F,52,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,567,GTR,No
+M,79,4,"Glioblastoma, IDH-wildtype",positive,12,wildtype,1,994,GTR,No
+M,61,4,"Glioblastoma, IDH-wildtype",positive,12,wildtype,0,161,STR,No
+F,62,4,"Glioblastoma, IDH-wildtype",positive,13,wildtype,1,777,STR,No
+M,46,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,591,STR,No
+F,69,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,110,STR,No
+M,48,4,"Glioblastoma, IDH-wildtype",positive,3,wildtype,1,472,GTR,No
+M,50,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,705,STR,No
+M,45,4,"Glioblastoma, IDH-wildtype",positive,6,wildtype,0,798,STR,No
+M,55,4,"Glioblastoma, IDH-wildtype",positive,5,wildtype,0,1694,GTR,No
+M,52,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,70,biopsy,No
+M,66,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,667,GTR,No
+F,51,4,"Glioblastoma, IDH-wildtype",positive,3,wildtype,1,351,GTR,No
+F,62,4,"Glioblastoma, IDH-wildtype",positive,14,wildtype,0,175,STR,No
+M,29,4,"Astrocytoma, IDH-mutant",positive,8,mutated (NOS),0,1715,GTR,No
+M,51,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,1,611,STR,No
+M,61,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,39,biopsy,No
+M,55,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,301,STR,Yes
+F,54,4,"Glioblastoma, IDH-wildtype",positive,11,wildtype,1,1351,GTR,No
+F,63,4,"Glioblastoma, IDH-wildtype",positive,12,wildtype,1,92,GTR,No
+M,58,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,430,GTR,No
+F,37,4,"Glioblastoma, IDH-wildtype",positive,14,wildtype,0,1611,GTR,No
+F,65,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,162,GTR,No
+M,49,4,"Astrocytoma, IDH-mutant",positive,15,mutated (NOS),0,1650,STR,No
+M,56,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,879,GTR,No
+M,64,4,"Glioblastoma, IDH-wildtype",positive,7,wildtype,1,1024,GTR,No
+M,52,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,485,GTR,No
+M,17,4,"Astrocytoma, IDH-mutant",negative,0,IDH1 p.R132H,0,1299,STR,Yes
+M,48,4,"Glioblastoma, IDH-wildtype",positive,7,wildtype,1,919,GTR,No
+M,53,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,0,1296,GTR,No
+M,60,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,0,645,STR,No
+M,47,4,"Glioblastoma, IDH-wildtype",positive,5,wildtype,1,553,GTR,No
+M,60,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,0,1440,GTR,No
+M,76,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,410,GTR,No
+M,29,4,"Astrocytoma, IDH-mutant",positive,12,IDH1 p.R132C,0,1139,STR,No
+F,64,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,109,GTR,No
+M,67,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,0,288,STR,No
+F,36,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,1,868,GTR,No
+M,78,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,1,586,GTR,No
+M,53,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,1,799,GTR,No
+F,58,4,"Glioblastoma, IDH-wildtype",positive,3,wildtype,1,624,GTR,No
+M,65,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,1,188,GTR,No
+M,76,4,"Glioblastoma, IDH-wildtype",positive,14,wildtype,1,39,GTR,No
+M,65,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,758,GTR,No
+M,61,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,430,GTR,No
+M,81,4,"Glioblastoma, IDH-wildtype",positive,12,wildtype,1,91,biopsy,No
+M,57,4,"Glioblastoma, IDH-wildtype",positive,15,wildtype,1,142,STR,No
+M,57,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,310,GTR,No
+M,57,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,1392,GTR,No
+M,58,4,"Astrocytoma, IDH-mutant",positive,13,IDH1 p.R132H,1,482,STR,No
+F,78,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,1,86,biopsy,No
+M,66,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,15,GTR,No
+M,51,4,"Glioblastoma, IDH-wildtype",positive,15,wildtype,1,1308,GTR,No
+F,66,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,611,GTR,No
+F,58,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,1,471,STR,No
+F,68,4,"Glioblastoma, IDH-wildtype",positive,13,wildtype,1,316,GTR,No
+M,63,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,394,GTR,No
+F,71,4,"Glioblastoma, IDH-wildtype",positive,15,wildtype,1,1132,GTR,No
+F,27,4,"Astrocytoma, IDH-mutant",positive,16,IDH1 p.R132C,0,1035,GTR,Yes
+F,60,4,"Glioblastoma, IDH-wildtype",positive,14,wildtype,0,902,GTR,No
+F,83,4,"Glioblastoma, IDH-wildtype",positive,13,wildtype,1,130,GTR,No
+F,65,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,1,729,STR,No
+F,67,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,1,628,STR,No
+M,29,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,248,GTR,No
+M,33,4,"Astrocytoma, IDH-mutant",positive,14,IDH1 p.R132C,0,1366,STR,No
+M,51,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,194,STR,No
+M,48,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,633,GTR,No
+M,70,4,"Glioblastoma, IDH-wildtype",positive,3,wildtype,1,60,GTR,No
+F,49,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,1,689,STR,No
+M,60,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,0,1196,GTR,No
+M,49,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,418,GTR,No
+M,79,4,"Glioblastoma, IDH-wildtype",positive,7,wildtype,1,576,biopsy,No
+M,42,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,1,418,biopsy,No
+F,64,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,925,GTR,No
+M,80,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,1,72,GTR,No
+M,26,4,"Astrocytoma, IDH-mutant",positive,8,IDH1 p.R132H,1,376,STR,No
+M,36,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,1084,STR,No
+F,74,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,1,302,GTR,No
+F,77,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,676,STR,No
+M,75,4,"Glioblastoma, IDH-wildtype",positive,5,wildtype,0,1201,GTR,No
+M,71,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,494,GTR,No
+F,56,4,"Glioblastoma, IDH-wildtype",positive,13,wildtype,0,1167,GTR,No
+M,65,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,446,GTR,No
+F,76,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,0,1163,GTR,No
+F,59,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,1,545,GTR,No
+M,35,4,"Glioblastoma, IDH-wildtype",positive,15,wildtype,0,1142,GTR,Yes
+M,60,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,1,230,GTR,No
+F,61,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,1,115,GTR,No
+M,46,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,1,329,STR,Yes
+F,62,4,"Glioblastoma, IDH-wildtype",positive,3,wildtype,0,416,STR,Yes
+F,39,4,"Astrocytoma, IDH-mutant",positive,16,IDH1 p.R132H,0,698,STR,No
+F,26,4,"Glioblastoma, IDH-wildtype",positive,3,wildtype,1,837,GTR,No
+M,61,4,"Glioblastoma, IDH-wildtype",positive,11,wildtype,1,394,GTR,Yes
+F,52,4,"Glioblastoma, IDH-wildtype",positive,3,wildtype,1,512,GTR,No
+M,58,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,304,STR,No
+M,72,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,150,GTR,No
+M,43,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,809,GTR,No
+M,71,4,"Glioblastoma, IDH-wildtype",positive,3,wildtype,1,809,GTR,No
+F,65,4,"Glioblastoma, IDH-wildtype",positive,15,wildtype,1,141,GTR,No
+M,46,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,0,1015,GTR,No
+M,58,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,920,GTR,No
+M,81,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,421,GTR,Yes
+F,68,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,0,428,GTR,No
+F,67,4,"Astrocytoma, IDH-mutant",positive,11,IDH1 p.R132H,1,60,GTR,Yes
+M,35,4,"Astrocytoma, IDH-mutant",positive,2,IDH1 p.R132H,0,125,STR,No
+F,57,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,281,GTR,No
+M,73,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,1,52,biopsy,Yes
+F,61,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,446,GTR,No
+F,67,4,"Glioblastoma, IDH-wildtype",positive,14,wildtype,1,603,GTR,No
+F,86,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,48,biopsy,No
+M,76,4,"Glioblastoma, IDH-wildtype",positive,12,wildtype,1,361,GTR,No
+M,68,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,0,845,GTR,No
+M,79,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,0,128,biopsy,Yes
+M,55,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,0,961,GTR,Yes
+M,72,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,108,biopsy,No
+M,72,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,1,421,GTR,Yes
+F,89,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,203,STR,No
+M,69,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,476,GTR,No
+F,36,3,"Astrocytoma, IDH-mutant",indeterminate,0,mutated (NOS),0,2043,STR,No
+M,22,2,"Astrocytoma, IDH-mutant",positive,11,IDH1 p.R132H,1,1612,STR,No
+F,31,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,1182,STR,No
+M,30,2,"Astrocytoma, IDH-mutant",positive,9,IDH1 p.R132G,1,2191,GTR,No
+F,34,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH2 p.R172K,0,1848,GTR,No
+F,35,2,"Oligodendroglioma, IDH-mutant, 1p/19q-codeleted",indeterminate,0,mutated (NOS),0,2209,GTR,No
+M,42,2,"Astrocytoma, IDH-mutant",indeterminate,0,mutated (NOS),0,534,STR,No
+M,24,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,2098,STR,No
+M,57,2,"Oligodendroglioma, IDH-mutant, 1p/19q-codeleted",indeterminate,0,mutated (NOS),0,157,STR,No
+F,26,2,"Astrocytoma, IDH-mutant",indeterminate,0,mutated (NOS),0,2018,STR,No
+M,30,3,"Astrocytoma, IDH-mutant",indeterminate,0,mutated (NOS),0,1382,STR,No
+M,37,2,"Astrocytoma, IDH-mutant",indeterminate,0,mutated (NOS),0,1833,GTR,No
+M,59,3,"Oligodendroglioma, IDH-mutant, 1p/19q-codeleted",indeterminate,0,mutated (NOS),0,1850,STR,No
+F,43,2,"Oligodendroglioma, IDH-mutant, 1p/19q-codeleted",indeterminate,0,mutated (NOS),0,1714,STR,No
+M,34,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132C,0,1840,STR,No
+F,46,2,"Astrocytoma, IDH-mutant",indeterminate,0,mutated (NOS),0,41,STR,No
+M,26,2,"Oligodendroglioma, IDH-mutant, 1p/19q-codeleted",indeterminate,0,mutated (NOS),0,13,STR,No
+M,46,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,1643,STR,No
+M,59,3,"Astrocytoma, IDH-wildtype",positive,0,wildtype,0,22,STR,No
+M,44,2,"Astrocytoma, IDH-mutant",indeterminate,0,mutated (NOS),0,14,STR,No
+M,36,3,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,689,STR,No
+F,35,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132G,0,1595,STR,No
+M,25,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,1547,STR,Yes
+F,53,3,"Astrocytoma, IDH-wildtype",negative,0,wildtype,1,718,STR,No
+F,40,2,"Astrocytoma, IDH-mutant",indeterminate,0,mutated (NOS),0,1521,GTR,No
+F,28,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,1513,GTR,No
+M,32,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,1449,STR,No
+M,23,2,"Oligodendroglioma, IDH-mutant, 1p/19q-codeleted",indeterminate,0,mutated (NOS),0,187,STR,No
+M,28,2,"Astrocytoma, IDH-mutant",indeterminate,0,mutated (NOS),1,1421,STR,No
+F,56,2,"Oligodendroglioma, IDH-mutant, 1p/19q-codeleted",indeterminate,0,mutated (NOS),0,1118,GTR,No
+F,29,2,"Astrocytoma, IDH-mutant",indeterminate,0,mutated (NOS),0,805,STR,No
+M,44,3,"Astrocytoma, IDH-mutant",negative,0,IDH1 p.R132S,0,1190,STR,No
+M,54,3,"Astrocytoma, IDH-wildtype",positive,1,wildtype,1,663,STR,Yes
+F,48,2,"Astrocytoma, IDH-mutant",indeterminate,0,mutated (NOS),0,839,STR,No
+F,44,2,"Oligodendroglioma, IDH-mutant, 1p/19q-codeleted",indeterminate,0,mutated (NOS),0,916,STR,No
+M,31,2,"Astrocytoma, IDH-mutant",indeterminate,0,mutated (NOS),0,689,STR,No
+M,45,2,"Oligodendroglioma, IDH-mutant, 1p/19q-codeleted",indeterminate,0,mutated (NOS),0,55,STR,No
+F,51,3,"Astrocytoma, IDH-wildtype",positive,17,wildtype,0,639,GTR,No
+M,48,2,"Oligodendroglioma, IDH-mutant, 1p/19q-codeleted",indeterminate,0,mutated (NOS),0,565,STR,No
+F,46,4,"Glioblastoma, IDH-wildtype",positive,0,wildtype,0,166,GTR,No
+M,35,3,"Astrocytoma, IDH-mutant",negative,0,IDH2 p.Arg172Trp,0,574,STR,No
+M,47,4,"Glioblastoma, IDH-wildtype",positive,3,wildtype,0,483,GTR,No
+F,35,3,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132C,0,728,biopsy,No
+F,65,4,"Glioblastoma, IDH-wildtype",positive,0,wildtype,1,465,STR,Yes
+M,51,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,439,STR,No
+F,75,3,"Astrocytoma, IDH-wildtype",positive,11,wildtype,1,629,biopsy,No
+M,69,4,"Glioblastoma, IDH-wildtype",positive,4,wildtype,0,358,GTR,No
+M,60,4,"Glioblastoma, IDH-wildtype",positive,12,wildtype,0,163,STR,No
+M,62,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,0,773,GTR,No
+M,46,2,"Oligodendroglioma, IDH-mutant, 1p/19q-codeleted",indeterminate,0,mutated (NOS),0,836,STR,No
+F,48,3,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,763,GTR,No
+M,69,4,"Glioblastoma, IDH-wildtype",positive,13,wildtype,0,748,GTR,No
+F,69,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,0,685,GTR,Yes
+F,60,3,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,714,GTR,No
+F,39,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,189,STR,No
+F,59,4,"Glioblastoma, IDH-wildtype",positive,0,wildtype,1,435,biopsy,No
+M,46,4,"Glioblastoma, IDH-wildtype",positive,3,wildtype,1,420,biopsy,Yes
+F,59,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,0,711,STR,No
+M,43,4,"Astrocytoma, IDH-mutant",positive,4,IDH1 p.R132H,0,407,GTR,No
+F,71,4,"Glioblastoma, IDH-wildtype",positive,15,wildtype,1,396,biopsy,No
+F,56,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,221,STR,No
+M,64,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,1,491,GTR,No
+F,68,4,"Glioblastoma, IDH-wildtype",indeterminate,0,wildtype,1,357,GTR,No
+M,48,3,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,757,STR,No
+F,33,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,184,biopsy,Yes
+M,45,2,"Astrocytoma, IDH-wildtype",positive,5,wildtype,1,999,biopsy,No
+M,64,3,"Astrocytoma, IDH-mutant",positive,15,IDH1 p.R132H,0,624,STR,No
+M,52,3,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,1176,STR,No
+F,36,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,706,GTR,Yes
+F,70,4,"Glioblastoma, IDH-wildtype",positive,0,wildtype,1,163,STR,No
+M,31,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,740,STR,Yes
+M,45,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,720,biopsy,No
+M,57,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,319,STR,Yes
+M,74,4,"Glioblastoma, IDH-wildtype",positive,3,wildtype,1,174,GTR,No
+M,57,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,0,405,GTR,No
+F,75,4,"Glioblastoma, IDH-wildtype",indeterminate,0,wildtype,1,55,biopsy,No
+M,71,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,0,349,STR,No
+M,68,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,135,GTR,No
+M,65,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,1,205,GTR,No
+M,60,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,300,GTR,No
+M,69,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,677,GTR,No
+F,33,4,"Glioblastoma, IDH-wildtype",indeterminate,0,wildtype,0,128,biopsy,Yes
+F,83,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,0,275,GTR,No
+F,54,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,0,571,GTR,No
+F,63,4,"Glioblastoma, IDH-wildtype",positive,13,wildtype,0,280,STR,No
+M,76,4,"Glioblastoma, IDH-wildtype",positive,15,wildtype,1,332,GTR,No
+M,37,4,"Astrocytoma, IDH-mutant",positive,2,IDH1 p.R132G,0,15,STR,No
+M,61,4,"Glioblastoma, IDH-wildtype",positive,14,wildtype,1,108,GTR,No
+F,32,3,"Astrocytoma, IDH-mutant",positive,11,IDH1 p.R132C,0,514,STR,No
+M,57,2,"Astrocytoma, IDH-wildtype",indeterminate,0,wildtype,1,658,STR,No
+M,54,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,0,292,GTR,No
+F,44,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,0,1812,STR,Yes
+F,63,4,"Glioblastoma, IDH-wildtype",indeterminate,0,wildtype,1,599,GTR,No
+M,46,3,"Astrocytoma, IDH-mutant",positive,10,IDH1 p.R132H,0,1640,STR,No
+M,68,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,1,42,GTR,No
+F,52,4,"Glioblastoma, IDH-wildtype",positive,14,wildtype,1,496,GTR,No
+F,62,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,386,GTR,No
+F,41,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,1690,GTR,No
+M,57,4,"Glioblastoma, IDH-wildtype",indeterminate,0,wildtype,1,177,GTR,No
+M,48,4,"Glioblastoma, IDH-wildtype",indeterminate,0,wildtype,0,1113,STR,Yes
+M,62,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,356,GTR,No
+M,50,4,"Glioblastoma, IDH-wildtype",positive,13,wildtype,0,930,GTR,Yes
+F,69,4,"Glioblastoma, IDH-wildtype",positive,13,wildtype,0,1347,GTR,No
+F,57,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,1,1067,GTR,No
+F,66,4,"Glioblastoma, IDH-wildtype",positive,11,wildtype,1,1248,GTR,Yes
+F,48,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,1,183,STR,No
+M,66,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,329,STR,Yes
+F,46,4,"Glioblastoma, IDH-wildtype",positive,3,wildtype,1,743,GTR,No
+F,72,4,"Glioblastoma, IDH-wildtype",positive,0,wildtype,1,676,STR,Yes
+F,54,4,"Glioblastoma, IDH-wildtype",positive,6,wildtype,0,1333,GTR,Yes
+F,54,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,1,627,STR,Yes
+M,52,3,"Astrocytoma, IDH-wildtype",negative,0,wildtype,1,445,GTR,No
+M,44,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,1,643,STR,Yes
+F,61,2,"Astrocytoma, IDH-wildtype",positive,1,wildtype,0,1226,STR,No
+M,78,3,"Astrocytoma, IDH-wildtype",positive,16,wildtype,1,631,STR,No
+F,59,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,1,539,GTR,No
+F,56,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,1,248,STR,No
+F,69,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,1037,GTR,No
+M,61,4,"Glioblastoma, IDH-wildtype",positive,14,wildtype,1,1098,GTR,No
+F,43,3,"Astrocytoma, IDH-wildtype",negative,0,wildtype,0,567,STR,No
+M,57,4,"Glioblastoma, IDH-wildtype",positive,14,wildtype,1,430,STR,Yes
+F,69,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,681,GTR,Yes
+F,62,4,"Glioblastoma, IDH-wildtype",positive,15,wildtype,0,777,GTR,No
+F,58,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,499,GTR,No
+F,75,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,364,GTR,No
+M,66,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,363,STR,Yes
+M,47,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,740,GTR,No
+M,74,3,"Astrocytoma, IDH-wildtype",positive,12,wildtype,1,415,STR,No
+F,56,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,0,762,GTR,Yes
+F,59,3,"Astrocytoma, IDH-mutant",positive,10,IDH1 p.R132H,0,1029,STR,Yes
+F,59,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,561,GTR,No
+F,58,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,421,GTR,Yes
+F,76,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,1,461,STR,Yes
+M,48,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,660,GTR,Yes
+M,64,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,219,biopsy,No
+F,65,4,"Glioblastoma, IDH-wildtype",indeterminate,0,wildtype,1,18,GTR,No
+F,63,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,0,566,GTR,Yes
+M,44,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,0,616,GTR,No
+F,57,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,509,STR,Yes
+F,72,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,1,384,GTR,No
+F,31,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,510,biopsy,Yes
+M,43,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,213,biopsy,No
+M,60,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,534,GTR,No
+M,78,4,"Glioblastoma, IDH-wildtype",positive,4,wildtype,0,302,GTR,No
+M,68,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,19,STR,No
+F,82,4,"Glioblastoma, IDH-wildtype",positive,14,wildtype,1,754,GTR,Yes
+M,60,4,"Glioblastoma, IDH-wildtype",positive,9,wildtype,1,319,STR,No
+F,54,4,"Glioblastoma, IDH-wildtype",positive,3,wildtype,1,450,STR,Yes
+F,60,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,912,GTR,Yes
+F,68,4,"Glioblastoma, IDH-wildtype",positive,11,wildtype,0,86,biopsy,No
+M,62,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,1119,STR,No
+M,58,4,"Glioblastoma, IDH-wildtype",positive,10,wildtype,1,498,STR,No
+M,71,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,618,GTR,No
+F,59,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,0,711,STR,No
+F,67,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,0,363,biopsy,No
+M,66,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,0,375,STR,No
+M,57,4,"Glioblastoma, IDH-wildtype",positive,14,wildtype,0,565,GTR,Yes
+F,60,4,"Glioblastoma, IDH-wildtype",indeterminate,0,wildtype,1,785,GTR,Yes
+M,36,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,1084,STR,No
+M,81,4,"Glioblastoma, IDH-wildtype",positive,9,wildtype,1,19,GTR,No
+F,58,4,"Glioblastoma, IDH-wildtype",positive,11,wildtype,1,753,GTR,No
+M,48,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,548,GTR,No
+M,60,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,244,STR,Yes
+M,78,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,114,biopsy,No
+M,61,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,90,STR,No
+M,64,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,69,STR,No
+M,69,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,191,GTR,No
+M,45,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,0,319,GTR,No
+M,52,4,"Glioblastoma, IDH-wildtype",positive,14,wildtype,1,169,GTR,No
+M,42,4,"Astrocytoma, IDH-mutant",positive,17,IDH1 p.R132H,0,165,GTR,No
+F,56,4,"Glioblastoma, IDH-wildtype",positive,13,wildtype,0,1167,GTR,No
+M,49,4,"Glioblastoma, IDH-wildtype",positive,3,wildtype,1,366,GTR,No
+M,60,4,"Glioblastoma, IDH-wildtype",positive,7,wildtype,0,388,GTR,Yes
+M,47,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,239,biopsy,No
+F,56,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,1,2144,GTR,Yes
+F,77,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,351,GTR,No
+M,30,4,"Astrocytoma, IDH-mutant",positive,7,IDH1 p.R132H,0,1320,GTR,Yes
+M,63,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,484,STR,No
+M,68,4,"Glioblastoma, IDH-wildtype",positive,5,wildtype,1,334,GTR,No
+M,52,4,"Glioblastoma, IDH-wildtype",positive,9,wildtype,1,657,STR,No
+M,77,4,"Glioblastoma, IDH-wildtype",positive,10,wildtype,0,307,GTR,No
+F,57,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,0,213,GTR,No
+M,80,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,0,518,GTR,No
+M,78,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,1,264,GTR,No
+M,52,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,0,602,STR,No
+M,42,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,504,GTR,No
+M,54,4,"Glioblastoma, IDH-wildtype",positive,5,wildtype,1,605,GTR,No
+M,65,4,"Glioblastoma, IDH-wildtype",positive,8,wildtype,0,249,STR,No
+M,51,4,"Astrocytoma, IDH-mutant",positive,16,IDH1 p.R132H,0,222,GTR,No
+M,42,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,422,GTR,No
+F,58,4,"Glioblastoma, IDH-wildtype",positive,3,wildtype,1,624,GTR,No
+M,79,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,406,GTR,Yes
+M,69,4,"Glioblastoma, IDH-wildtype",positive,4,wildtype,0,358,GTR,No
+F,19,4,"Astrocytoma, IDH-mutant",positive,9,IDH1 p.R132H,1,639,GTR,No
+M,65,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,1,205,GTR,No
+M,67,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,134,STR,No
+M,73,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,1,183,GTR,No
+F,57,3,"Astrocytoma, IDH-wildtype",positive,3,wildtype,0,424,biopsy,No
+F,38,3,"Astrocytoma, IDH-mutant",negative,0,IDH1 p.R132G,0,4177,STR,Yes
+F,38,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132C,0,1280,STR,No
+M,38,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,1022,GTR,No
+M,31,3,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132G,0,1210,STR,No
+F,26,3,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,375,GTR,No
+F,66,2,"Astrocytoma, IDH-wildtype",negative,0,wildtype,1,1145,STR,No
+F,47,2,"Astrocytoma, IDH-wildtype",indeterminate,0,wildtype,0,187,biopsy,No
+M,32,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,1730,STR,No
+M,48,3,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,672,STR,No
+F,71,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,118,STR,No
+F,71,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,1,28,biopsy,No
+M,55,2,"Astrocytoma, IDH-wildtype",indeterminate,0,wildtype,0,158,biopsy,No
+M,61,3,"Astrocytoma, IDH-wildtype",positive,4,wildtype,1,404,biopsy,No
+F,55,4,"Glioblastoma, IDH-wildtype",positive,12,wildtype,1,369,STR,No
+M,43,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,512,GTR,No
+M,76,4,"Glioblastoma, IDH-wildtype",positive,3,wildtype,1,112,GTR,No
+M,75,4,"Glioblastoma, IDH-wildtype",positive,13,wildtype,1,96,biopsy,No
+M,64,4,"Glioblastoma, IDH-wildtype",positive,14,wildtype,0,285,STR,No
+M,55,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,165,STR,Yes
+M,66,2,"Astrocytoma, IDH-wildtype",positive,2,wildtype,1,409,biopsy,No
+M,61,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,241,GTR,No
+M,65,4,"Glioblastoma, IDH-wildtype",indeterminate,0,wildtype,1,110,STR,No
+M,78,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,78,STR,No
+F,33,4,"Astrocytoma, IDH-mutant",positive,14,IDH1 p.R132C,0,106,STR,No
+F,73,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,66,STR,No
+M,83,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,1,84,GTR,No
+F,74,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,0,108,STR,No
+F,75,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,0,10,biopsy,No
+M,35,2,"Astrocytoma, IDH-wildtype",indeterminate,0,wildtype,1,92,biopsy,No
+F,72,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,287,biopsy,No
+M,75,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,1,169,STR,No
+M,38,3,"Astrocytoma, IDH-mutant",positive,9,IDH1 p.R132H,0,523,STR,No
+F,43,3,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,1338,STR,Yes
+M,71,4,"Glioblastoma, IDH-wildtype",positive,14,wildtype,1,70,biopsy,No
+F,26,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,1,319,STR,Yes
+F,76,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,1,38,biopsy,No
+F,34,3,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,952,STR,No
+M,40,3,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,1,593,STR,No
+F,31,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,1369,GTR,No
+F,22,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,1677,STR,No
+F,69,2,"Astrocytoma, IDH-wildtype",indeterminate,0,wildtype,0,792,STR,No
+M,37,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,957,STR,No
+M,67,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,475,STR,Yes
+M,94,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,1,54,GTR,No
+M,57,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,483,GTR,No
+M,45,3,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,1,998,biopsy,No
+M,71,2,"Astrocytoma, IDH-wildtype",positive,1,wildtype,0,342,STR,No
+F,60,4,"Glioblastoma, IDH-wildtype",positive,14,wildtype,1,149,GTR,Yes
+M,65,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,524,STR,No
+F,54,3,"Astrocytoma, IDH-wildtype",negative,0,wildtype,0,232,STR,No
+M,21,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,111,STR,Yes
+M,77,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,0,142,GTR,Yes
+M,42,3,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,846,STR,Yes
+M,29,2,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,505,STR,No
+M,64,3,"Astrocytoma, IDH-wildtype",indeterminate,0,wildtype,0,2708,STR,No
+F,63,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,262,GTR,No
+M,74,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,0,114,GTR,No
+F,71,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,1,111,GTR,No
+M,71,4,"Glioblastoma, IDH-wildtype",positive,2,wildtype,1,168,STR,No
+F,68,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,0,92,GTR,No
+M,73,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,262,GTR,No
+F,53,4,"Glioblastoma, IDH-wildtype",indeterminate,0,wildtype,0,95,GTR,No
+M,34,3,"Astrocytoma, IDH-mutant",indeterminate,0,IDH1 p.R132H,0,12,GTR,No
+M,47,3,"Astrocytoma, IDH-wildtype",positive,1,wildtype,1,185,biopsy,No
+M,26,3,"Astrocytoma, IDH-mutant",positive,16,IDH1 p.R132H,1,531,STR,No
+F,77,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,59,GTR,No
+F,73,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,204,GTR,No
+F,63,4,"Glioblastoma, IDH-wildtype",positive,9,wildtype,0,1101,GTR,No
+M,63,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,0,208,GTR,No
+M,85,4,"Glioblastoma, IDH-wildtype",indeterminate,0,wildtype,1,86,STR,No
+F,61,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,0,35,GTR,No
+M,61,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,81,STR,No
+F,68,4,"Glioblastoma, IDH-wildtype",positive,3,wildtype,0,267,GTR,No
+M,62,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,0,252,GTR,No
+M,60,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,112,GTR,No
+F,80,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,1,303,GTR,No
+F,73,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,1,80,GTR,No
+F,54,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,375,biopsy,No
+F,82,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,45,GTR,No
+F,55,4,"Glioblastoma, IDH-wildtype",positive,4,wildtype,0,316,GTR,No
+M,53,4,"Astrocytoma, IDH-mutant",positive,15,IDH1 p.R132H,0,86,GTR,No
+M,32,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,369,GTR,No
+M,64,4,"Glioblastoma, IDH-wildtype",positive,14,wildtype,0,320,GTR,No
+M,70,4,"Glioblastoma, IDH-wildtype",positive,8,wildtype,0,373,GTR,No
+M,58,4,"Glioblastoma, IDH-wildtype",indeterminate,0,wildtype,0,305,biopsy,No
+M,62,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,0,306,GTR,No
+F,65,4,"Glioblastoma, IDH-wildtype",positive,3,wildtype,0,156,GTR,No
+M,47,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,0,680,STR,Yes
+F,62,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,37,biopsy,No
+M,74,4,"Glioblastoma, IDH-wildtype",positive,1,wildtype,0,126,GTR,No
+F,58,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,0,150,GTR,No
+M,57,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,54,biopsy,No
+M,34,4,"Astrocytoma, IDH-mutant",positive,14,IDH1 p.R132S,0,112,GTR,No
+F,34,3,"Astrocytoma, IDH-mutant",positive,13,IDH1 p.R132H,0,96,STR,No
+M,36,4,"Astrocytoma, IDH-mutant",positive,15,IDH1 p.R132H,0,21,STR,Yes
+M,75,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,1,322,GTR,No
+F,31,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,0,292,GTR,No
+M,71,4,"Glioblastoma, IDH-wildtype",positive,17,wildtype,0,55,biopsy,No
+M,19,3,"Oligodendroglioma, IDH-mutant, 1p/19q-codeleted",indeterminate,0,IDH1 p.R132H,0,749,GTR,No
+F,58,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,0,267,STR,No
+M,64,4,"Glioblastoma, IDH-wildtype",positive,16,wildtype,0,334,biopsy,Yes
+F,41,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,287,GTR,No
+M,72,4,"Glioblastoma, IDH-wildtype",positive,12,wildtype,0,291,GTR,No
+F,70,2,"Oligodendroglioma, IDH-mutant, 1p/19q-codeleted",positive,17,IDH1 p.R132H,0,215,STR,No
+F,68,4,"Glioblastoma, IDH-wildtype",negative,0,wildtype,0,199,GTR,No
